@@ -31,11 +31,34 @@ Week 11	-Final Adjustments	Apply improvements based on testing results, optimize
 Week 12	-Final submission	Project Launch & Final Report	Present fully functional website and final project report with screenshots, code/documentation, and reflection.
 
 ## Sitemap
-*Homepage
+*Homepage 
+-Hero Banner
+-Highlights of Product categories
+-Shop by list
+-Vision & Mission Board
 *About
+- Store History
+-Mission statement
+-Vision statement
+-Customer Spotlight (customers testimonials of the products)
 *Products
+-Product Categories
+   Shampoos & Conditioners
+   Moisturizers & Oils
+   Styling Products
+   Hair Tools & Accessories
+   Starter Kits for Kids
+-Product Pages
+   Individual product detail pages (images, description, price, add to cart, age suitability)
 *Blog
+-Hair care tips
+-Video tutorials
+-Hair type quiz 
+-Choosing right oil for your hair type
 *Contact
+-Contact form
+-Email & phone
+-Store locations
 
 ## Changelog
 **2025-08-25**
