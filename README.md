@@ -73,6 +73,12 @@ Week 12	-Final submission	Project Launch & Final Report	Present fully functional
 - Improved Project Overview wording for readability.
 - Corrected minor typos and formatting issues.
 
+**2025-09-25 (latest update)**
+-Updated sitemap and added branches
+-added navigations to all html files
+-added comments explaining codes on all html files & CSS
+-commited updates to github
+
 ## References
 Foundry, S., 2024. GitHub Basics Made Easy: A Fast Beginner's Tutorial!. [Online] 
 Available at: https://youtu.be/Oaj3RBIoGFc?si=pEBurINwithU8_w_
