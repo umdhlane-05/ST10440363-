@@ -79,6 +79,21 @@ Week 12	-Final submission	Project Launch & Final Report	Present fully functional
 -added comments explaining codes on all html files & CSS
 -commited updates to github
 
+**2025-11-09 (latest update)**
+-Updated layout structure and stylecodes
+-Updated interactive CSS styles
+
+**2025-11-10 (latest update)**
+-Added nine fles into the JavaScript folder
+-Created folders for the about,contact,product and blog 
+- Added three more CSS files for better styling and enhancement to the website
+- Created a sitemap for the website
+- Robots file was created to instruct search engine crawlers on which pages to index
+- Security measures were implemented for the protection of the website
+- Created forms for the website so that it is user-friendly and user-interactive
+- created a wed file to support AJAX in order to submit data while providing a better user interface
+- commited updates to github
+
 ## References
 Foundry, S., 2024. GitHub Basics Made Easy: A Fast Beginner's Tutorial!. [Online] 
 Available at: https://youtu.be/Oaj3RBIoGFc?si=pEBurINwithU8_w_
@@ -89,6 +104,12 @@ Available at: https://za.pinterest.com/
 WIXEncyclopedia, n.d. Key Performance Indicator (KPI). [Online] 
 Available at: https://www.wix.com/encyclopedia/definition/key-performance-indicator-kpi?utm_source=bing&utm_medium=cpc&utm_campaign=506190470^1261141493030657^search%20-%20dsa&experiment_id=wix^b^^&msclkid=6b08690c6c27113adeea0192594ef9d3
 [Accessed 14 August 2025].
+GOV.UK Service Manual (2024) Using progressive enhancement. GOV.UK. Available at: GOV.UK (Accessed: 10 November 2025).
+ScienceDirect (n.d.) Progressive Enhancement — an overview, ScienceDirect Topics. Available at: ScienceDirect (Accessed: 10 November 2025).
+Ng, W.F. (2021) Sort and filter dynamic data in table with JavaScript, Better Programming / Medium. Available at: Medium (Accessed: 10 November 2025)
+Responsival (n.d.) Building Links 101: a comprehensive guide to backlinking. Available at: Responsival (Accessed: 10 November 2025). 
+SEO Tactica (2025) How to get .edu backlinks: a step-by-step guide, SEOTactica. Available at: SEOTactica (Accessed: 10 November 2025). 
+The Ethical Agency (2023) A short guide to link building for SEO. Available at: The Ethical Agency (Accessed: 10 November 2025).
 
 
 
